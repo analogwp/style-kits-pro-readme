@@ -12,7 +12,7 @@ Style Kits Pro extends intuitive styling controls found in Style Kits for Elemen
 
 == Description ==
 
-[Style Kits for Elementor](https://analogwp.com/style-kits-pro/?utm_medium=wp.org&utm_source=wordpressorg&utm_campaign=readme&utm_content=analogwp) adds a number of intuitive styling controls in the Elementor editor that allow you to apply styles globally or per page.
+[Style Kits Pro for Elementor](https://analogwp.com/style-kits-pro/?utm_medium=wp.org&utm_source=wordpressorg&utm_campaign=readme&utm_content=analogwp) adds a world of intuitive styling controls and additional features in the Elementor editor that allow you to apply styles globally or per page and much more.
 
 Stop manually adding / copying / pasting styles across layouts and experience macro control of the most essential aspects of your layout system:
 
@@ -75,6 +75,18 @@ Now you have a single source of control for your different button sizes. Set the
 
 #### More design controls
 
+Deeper design control with more meaningful features that will help you get more consistent and productive in Elementor design.
+
+#### CSS Helper Shortcuts
+
+Keyboard shortcuts that will help you identify which elements have custom CSS applied on them, and / or which ones have custom classes.
+
+Easily identify all custom classes on any element. Perfect for if you apply custom classes on elements a lot, but you tend to keep track of them.
+
+#### Unsplash Integration
+
+Direct access to curated Unsplash Collections from the WordPress or Elementor Editor. Browse collections by AnalogWP or connect your own Unsplash profile and browse through your own collections.
+
 
 #### The perfect addition to Elementor Hello Theme
 
@@ -90,14 +102,14 @@ Hello Elementor is a great, lightweight theme but it lacks basic typography cont
 
 This section describes how to install the plugin and get it working. e.g.
 
-1. Upload the plugin files to the `/wp-content/plugins/analogwp-templates` directory, or install the plugin through the WordPress plugins screen directly..
+1. Upload the plugin files to the `/wp-content/plugins/style-kits-pro` directory, or install the plugin through the Plugins >> Add new screen directly.
 2. Activate the plugin through the 'Plugins' screen in WordPress.
 3. Head to 'Style Kits' page from WordPress sidebar menu.
 
 == Frequently Asked Questions ==
 
 = Do the templates require Elementor Pro? =
-No, you do not need Elementor Pro at this point. All the templates that are provided for free are only using the Contact Form widget (which is an Elementor Pro feature). But you can always replace with your favorite contact form plugin.
+Yes, you do need Elementor Pro while using Pro templates. Only the free templates do not require Elementor Pro widgets.
 
 = What fonts are you using in designs? =
 All font pairs in our templates are Google web fonts, we love typography and are always in the look-out for great font combinations.
