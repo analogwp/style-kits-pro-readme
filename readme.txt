@@ -18,20 +18,6 @@ Stop manually adding / copying / pasting styles across layouts and experience ma
 
 https://www.youtube.com/watch?v=FZfTG3l-7T8
 
-- Body Style
-- Body Typography
-- Headings Typography
-- Heading Sizes
-- Text Sizes
-- Main Colors
-- Background Colors
-- Headings Colors
-- Forms
-- Buttons
-- Outer Section Padding
-- Column Gaps
-- Shortcuts
-
 #### Premium Blocks Library
 
 A mix-and-match library of blocks. Modular approach for infinite combinations of design patterns for any project.
