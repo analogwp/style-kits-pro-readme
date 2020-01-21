@@ -12,7 +12,7 @@ Style Kits Pro extends intuitive styling controls found in Style Kits for Elemen
 
 == Description ==
 
-[Style Kits for Elementor](https://analogwp.com/style-kits-pro/?utm_medium=wp.org&utm_source=wordpressorg&utm_campaign=readme&utm_content=analogwp) (formerly Analog Templates for Elementor) adds a number of intuitive styling controls in the Elementor editor that allow you to apply styles globally or per page.
+[Style Kits for Elementor](https://analogwp.com/style-kits-pro/?utm_medium=wp.org&utm_source=wordpressorg&utm_campaign=readme&utm_content=analogwp) adds a number of intuitive styling controls in the Elementor editor that allow you to apply styles globally or per page.
 
 Stop manually adding / copying / pasting styles across layouts and experience macro control of the most essential aspects of your layout system:
 
@@ -32,15 +32,36 @@ https://www.youtube.com/watch?v=FZfTG3l-7T8
 - Column Gaps
 - Shortcuts
 
+#### Premium Blocks Library
+
+A mix-and-match library of blocks. Modular approach for infinite combinations of design patterns for any project.
+
+#### Template Kits Library
+
+A collection of more than 100 templates, including theme builder templates for singles and archives.
+
+#### User Role Management
+
+Enable / disable Style Kit modules (templates, blocks, dashboard settings for each user role, and choose what your client sees.
+
 #### Typography
 
 Edit the styles for Body and Headings and see the effect taking place in your design immediately, right from within the Editor.
+
+####  Advanced Colors
+
+Separate heading colors, improved background color classes and more.
+
+#### Global Form Styles
+
+Set the default styling for your contact forms, and manage consistently throughout your templates.
 
 #### Column Gap controls
 
 Achieve site-wide spacing consistency through the column gap controls.
 
 Apply the native column gaps on your outer and inner sections and manage the spacing of your layout system from a single place.
+
 
 #### Save your page Styles as a Style Kit and apply on any page, or globally
 
@@ -52,11 +73,8 @@ You can also make a Global Style Kit, and it will apply on your entire site.
 
 Now you have a single source of control for your different button sizes. Set the button styles on your Style kit and enjoy consistent, site-wide button control.
 
-#### A collection of fine-tuned, Style-kit powered templates. Free & Premium.
+#### More design controls
 
-Trigger the template gallery popup, preview and import any of the templates in our collection.
-
-In most of the templates, styles are managed from the Style Kit panel, so you can experience design-macro control right away.
 
 #### The perfect addition to Elementor Hello Theme
 
