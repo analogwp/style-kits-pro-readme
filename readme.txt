@@ -3,7 +3,7 @@ Contributors: analogwp, mauryaratan
 Requires at least: 5.0
 Requires PHP: 5.4
 Tested up to: 5.3.2
-Stable tag: 1.0.1
+Stable tag: 1.0.2
 Tags: elementor, landing page, design, website builder, templates, page builder
 License: GPLv2
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
@@ -119,6 +119,10 @@ Our dedicated support team has your back. Please reach out via our website at ht
 
 
 == Changelog ==
+
+= 1.0.2 - Feb 07, 2020 =
+* Fix: Heading color overriding accent background heading colors
+* Fix: Error when extending Elementor Module
 
 = 1.0.1 - Feb 04, 2020 =
 * New: Added page tools
