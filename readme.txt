@@ -1,9 +1,9 @@
 === Style Kits Pro for Elementor ===
 Contributors: analogwp, mauryaratan
 Requires at least: 5.0
-Requires PHP: 5.4
+Requires PHP: 5.6
 Tested up to: 5.3.2
-Stable tag: 1.0.2
+Stable tag: 1.0.3
 Tags: elementor, landing page, design, website builder, templates, page builder
 License: GPLv2
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
@@ -120,12 +120,19 @@ Our dedicated support team has your back. Please reach out via our website at ht
 
 == Changelog ==
 
+= 1.0.3 - Mar 03, 2020 =
+- New: Dynamic Style Kit Colors for color controls
+- New: Selectively disable specific Style Kit panels
+- New: Premium Template Kit (Grip)
+- Improve: Better restrictions with User Role management
+- Fix: Pro version rollback showing incorrect versions
+
 = 1.0.2 - Feb 07, 2020 =
-* Fix: Heading color overriding accent background heading colors
-* Fix: Error when extending Elementor Module
+- Fix: Heading color overriding accent background heading colors
+- Fix: Error when extending Elementor Module
 
 = 1.0.1 - Feb 04, 2020 =
-* New: Added page tools
+- New: Added page tools
 
 = 1.0.0 - January 21, 2020 =
-* Initial release
+- Initial release
