@@ -2,8 +2,8 @@
 Contributors: analogwp, mauryaratan
 Requires at least: 5.0
 Requires PHP: 5.6
-Tested up to: 5.3.2
-Stable tag: 1.0.3
+Tested up to: 5.4
+Stable tag: 1.1
 Tags: elementor, landing page, design, website builder, templates, page builder
 License: GPLv2
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
@@ -119,6 +119,16 @@ Our dedicated support team has your back. Please reach out via our website at ht
 
 
 == Changelog ==
+
+= 1.1 - April 13, 2020 =
+- New: Kit Switcher widget
+- New: Form field sizes fields for each input size
+- Tweak: Renamed 'Forms (Extended)' section to 'Form Field Sizes'
+- Tweak: Rearranged Form Field Sizes fields
+- Tweak: Rename dynamic tab label to Color
+
+= 1.0.4 - Mar 09, 2020 =
+- Tweak: Adds compatibility with Style Kits v1.6.2
 
 = 1.0.3 - Mar 03, 2020 =
 - New: Dynamic Style Kit Colors for color controls
