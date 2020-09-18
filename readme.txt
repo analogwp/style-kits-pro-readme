@@ -120,6 +120,10 @@ Our dedicated support team has your back. Please reach out via our website at ht
 
 == Changelog ==
 
+= 1.1.1 - Sep 18, 2020 =
+* Improvements: Renamed "Form Field Sizes" to "Elementor Forms"
+* Improvements: Updated panel action hooks & their priority at remove sections
+
 = 1.0.4 - Aug 27, 2020 =
 - Fix: Don't remove licence info on plugin deactivation
 - Fix: Plugin loading if Style Kits isn't activated
