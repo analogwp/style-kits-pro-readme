@@ -2,8 +2,8 @@
 Contributors: analogwp, mauryaratan
 Requires at least: 5.0
 Requires PHP: 5.6
-Tested up to: 5.5
-Stable tag: 1.1.0
+Tested up to: 5.7.2
+Stable tag: 1.1.4
 Tags: elementor, landing page, design, website builder, templates, page builder
 License: GPLv2
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
@@ -120,11 +120,26 @@ Our dedicated support team has your back. Please reach out via our website at ht
 
 == Changelog ==
 
+= 1.1.4 - June 14, 2021 ==
+* Fix: Kit switcher styles not rendering at frontend
+* Improvements: Compatibility with Elementor v3.2+ & Elementor Pro v3.3
+* New: Compatible up to WordPress v5.7.2
+
+= 1.1.3 - Feb 25, 2021 =
+* New: Style Switcher widget to quickly switch between Kits on frontend
+* Improvements: Loading behaviour of Kits in preview
+
+= 1.1.2 - Nov 26, 2020 =
+* New: Compatible up to WordPress 5.6
+* Fix: Verify user capability during rollback on Multisites
+* Fix: Background color applied to text fix
+* Fix: Possible JS error on page load/refresh
+
 = 1.1.1 - Sep 18, 2020 =
 * Improvements: Renamed "Form Field Sizes" to "Elementor Forms"
 * Improvements: Updated panel action hooks & their priority at remove sections
 
-= 1.0.4 - Aug 27, 2020 =
+= 1.1.0 - Aug 27, 2020 =
 - Fix: Don't remove licence info on plugin deactivation
 - Fix: Plugin loading if Style Kits isn't activated
 - Improvements: Compatibility with Style Kits v1.7
