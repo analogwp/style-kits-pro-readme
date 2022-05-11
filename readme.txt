@@ -1,9 +1,9 @@
 === Style Kits Pro for Elementor ===
 Contributors: analogwp, mauryaratan
-Requires at least: 5.0
+Requires at least: 5.2
 Requires PHP: 5.6
-Tested up to: 5.7.2
-Stable tag: 1.1.4
+Tested up to: 6.0
+Stable tag: 1.2.0
 Tags: elementor, landing page, design, website builder, templates, page builder
 License: GPLv2
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
@@ -119,6 +119,16 @@ Our dedicated support team has your back. Please reach out via our website at ht
 
 
 == Changelog ==
+
+= 1.2.0 - May 11, 2022 ==
+* Experiments: Added Box Shadow control presets to tweak border box shadows
+* Improvements: Compatibility with both Elementor v3.6.5 & Elementor Pro v3.7.0
+* New: Compatible up to WordPress v5.9.3
+
+= 1.1.5 - Jan 24, 2022 ==
+* New: Compatible up to WordPress v5.9
+* New: Style Kits required version is now v1.8.3+
+* Improvements: Compatibility with Elementor v3.5+ & Elementor Pro v3.5.2
 
 = 1.1.4 - June 14, 2021 ==
 * Fix: Kit switcher styles not rendering at frontend
