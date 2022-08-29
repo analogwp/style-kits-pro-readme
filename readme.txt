@@ -2,8 +2,8 @@
 Contributors: analogwp, mauryaratan
 Requires at least: 5.2
 Requires PHP: 5.6
-Tested up to: 6.0
-Stable tag: 1.2.0
+Tested up to: 6.0.1
+Stable tag: 1.2.3
 Tags: elementor, landing page, design, website builder, templates, page builder
 License: GPLv2
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
@@ -119,6 +119,23 @@ Our dedicated support team has your back. Please reach out via our website at ht
 
 
 == Changelog ==
+
+= 1.2.3 - August 26, 2022 ==
+* New: Additional options for Global Colors, Fonts, Container Spacing & Shadows
+* New: Moved Global Shadows primary tab to Style Kits free
+* New: Disable Custom Container spacing control and load only if existing values remain
+* Improvements: Compatibility with Elementor v3.7.2 & Elementor Pro v3.7.3
+* Improvements: Compatible up to WordPress v6.0.1
+
+= 1.2.2 - June 24, 2022 ==
+* New: Added Reset button for Box Shadow presets
+* New: Added default values for Box Shadow presets
+
+= 1.2.1 - June 18, 2022 ==
+* New: Added Box Shadows experiment to stable
+* Experiments: Added Custom Presets control to Container Spacing experiment
+* Improvements: Compatibility with Elementor v3.6.6 & Elementor Pro v3.7.2
+* Improvements: Compatible up to WordPress v6.0
 
 = 1.2.0 - May 11, 2022 ==
 * Experiments: Added Box Shadow control presets to tweak border box shadows
