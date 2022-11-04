@@ -2,8 +2,8 @@
 Contributors: analogwp, mauryaratan
 Requires at least: 5.2
 Requires PHP: 5.6
-Tested up to: 6.0.1
-Stable tag: 1.2.3
+Tested up to: 6.1
+Stable tag: 1.2.4
 Tags: elementor, landing page, design, website builder, templates, page builder
 License: GPLv2
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
@@ -119,6 +119,12 @@ Our dedicated support team has your back. Please reach out via our website at ht
 
 
 == Changelog ==
+
+= 1.2.4 - November 04, 2022 =
+* Improvements: Update default Global Colors, Fonts, Container Spacing and Shadows labels
+* Improvements: Improved conditional loading for additional Container spacing presets
+* Improvements: Compatibility with Elementor v3.8.0 & Elementor Pro v3.8.0
+* Improvements: Compatible up to WordPress v6.1
 
 = 1.2.3 - August 26, 2022 ==
 * New: Additional options for Global Colors, Fonts, Container Spacing & Shadows
