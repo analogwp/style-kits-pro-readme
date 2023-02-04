@@ -2,8 +2,8 @@
 Contributors: analogwp, mauryaratan
 Requires at least: 5.2
 Requires PHP: 5.6
-Tested up to: 6.1
-Stable tag: 1.2.4
+Tested up to: 6.1.1
+Stable tag: 2.0.0
 Tags: elementor, landing page, design, website builder, templates, page builder
 License: GPLv2
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
@@ -119,6 +119,20 @@ Our dedicated support team has your back. Please reach out via our website at ht
 
 
 == Changelog ==
+
+= 2.0.0 - Feb 04, 2023 =
+* New: Add recently added Kit panels to Manage SK Panel
+* New: Updated license activation and renewal notices
+* Improvements: Update manage panels data for legacy features
+* Improvements: Code cleanup and improve uninstall process
+* Improvements: PHP 8.1 Compatibility
+* Improvements: Compatibility with Elementor v3.10.2 & Elementor Pro v3.10.3
+* Improvements: Compatible up to WordPress v6.1.1
+* Improvements: Synchronisation of version numbers for Style Kits free and Pro (2.0)
+* Fix: Updated priorities for legacy features
+* Fix: Incorrect feature links for docs
+* Fix: Incorrect text-domain strings
+* Fix: Kit switcher toggle not working as expected
 
 = 1.2.4 - November 04, 2022 =
 * Improvements: Update default Global Colors, Fonts, Container Spacing and Shadows labels
