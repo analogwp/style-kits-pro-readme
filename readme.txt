@@ -3,7 +3,7 @@ Contributors: analogwp, mauryaratan
 Requires at least: 5.2
 Requires PHP: 5.6
 Tested up to: 6.1.1
-Stable tag: 2.0.0
+Stable tag: 2.0.1
 Tags: elementor, landing page, design, website builder, templates, page builder
 License: GPLv2
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
@@ -119,6 +119,11 @@ Our dedicated support team has your back. Please reach out via our website at ht
 
 
 == Changelog ==
+
+= 2.0.1 - Feb 14, 2023 =
+* Fix: Issue with undefined documents in some rare cases (requires Style Kits Free v2.0.1)
+* Improvements: Compatibility with Elementor v3.11.0 & Elementor Pro v3.11.0
+* Improvements: Improve license page for license status
 
 = 2.0.0 - Feb 04, 2023 =
 * New: Add recently added Kit panels to Manage SK Panel
