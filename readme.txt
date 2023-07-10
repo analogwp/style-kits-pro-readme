@@ -1,9 +1,9 @@
 === Style Kits Pro for Elementor ===
 Contributors: analogwp, mauryaratan
-Requires at least: 5.2
-Requires PHP: 5.6
-Tested up to: 6.1.1
-Stable tag: 2.0.1
+Requires at least: 5.9
+Requires PHP: 7.0
+Tested up to: 6.2.2
+Stable tag: 2.0.5
 Tags: elementor, landing page, design, website builder, templates, page builder
 License: GPLv2
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
@@ -119,6 +119,28 @@ Our dedicated support team has your back. Please reach out via our website at ht
 
 
 == Changelog ==
+
+= 2.0.5 - July 10, 2023 =
+* Improvements: Compatibility with Elementor v3.14.1 and Elementor Pro v3.14.1
+* Improvements: Compatibility with WordPress v6.2.2
+* Improvements: Other minor code changes
+
+= 2.0.4 - May 18, 2023 =
+* Fix: Issue with JetEngine widgets and Style Kit switcher not working properly
+* Improvements: Compatibility with Elementor v3.13.2 and Elementor Pro v3.13.1
+* Improvements: Compatibility with WordPress v6.2.1
+* Improvements: Other minor code changes
+
+= 2.0.3 - April 19, 2023 =
+* New: Starter Kit Pro downloads at settings page
+* Improvements: Compatibility with Elementor Pro v3.12.2
+
+= 2.0.2 - April 05, 2023 =
+* New: Updated size units for controls with newly supported units such as rem, vw, custom
+* New: Bumped minimum WordPress, PHP and Style Kits required versions to v5.9, v7.0 and v2.0.2 respectively
+* Fix: Move Learn more link to tab description at User roles
+* Improvements: Compatibility with WordPress v6.2.0
+* Improvements: Compatibility with Elementor v3.12.1 & Elementor Pro v3.12.1
 
 = 2.0.1 - Feb 14, 2023 =
 * Fix: Issue with undefined documents in some rare cases (requires Style Kits Free v2.0.1)
