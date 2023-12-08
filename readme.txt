@@ -1,9 +1,9 @@
 === Style Kits Pro for Elementor ===
 Contributors: analogwp, mauryaratan
-Requires at least: 5.9
+Requires at least: 6.0
 Requires PHP: 7.0
-Tested up to: 6.2.2
-Stable tag: 2.0.5
+Tested up to: 6.4.2
+Stable tag: 2.0.6
 Tags: elementor, landing page, design, website builder, templates, page builder
 License: GPLv2
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
@@ -119,6 +119,13 @@ Our dedicated support team has your back. Please reach out via our website at ht
 
 
 == Changelog ==
+
+= 2.0.6 - December 08, 2023 =
+* New: Bumped minimum Style Kits Free required version to v2.0.5
+* Fix: Fix typography controls with deprecated schemes
+* Improvements: Compatibility with Elementor v3.18.2 and Elementor Pro v3.18.1
+* Improvements: Compatibility with WordPress v6.4.2
+* Improvements: Other minor code changes
 
 = 2.0.5 - July 10, 2023 =
 * Improvements: Compatibility with Elementor v3.14.1 and Elementor Pro v3.14.1
