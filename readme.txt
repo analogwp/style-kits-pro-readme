@@ -2,8 +2,8 @@
 Contributors: analogwp, mauryaratan
 Requires at least: 6.0
 Requires PHP: 7.0
-Tested up to: 6.4.2
-Stable tag: 2.0.6
+Tested up to: 6.5.2
+Stable tag: 2.0.9
 Tags: elementor, landing page, design, website builder, templates, page builder
 License: GPLv2
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
@@ -119,6 +119,14 @@ Our dedicated support team has your back. Please reach out via our website at ht
 
 
 == Changelog ==
+
+= 2.0.9 - April 19, 2024 =
+* New: Update Feature panel setting labels
+* Improvements: Sync versions with Style Kits Free
+* Improvements: Compatibility with WordPress v6.5.2
+* Improvements: Compatibility with Elementor v3.21.1 and Elementor Pro v3.21.0
+* Improvements: Updated translation files
+* Improvements: Other minor code changes
 
 = 2.0.6 - December 08, 2023 =
 * New: Bumped minimum Style Kits Free required version to v2.0.5
