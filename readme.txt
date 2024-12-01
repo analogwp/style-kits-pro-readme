@@ -1,9 +1,9 @@
 === Style Kits Pro for Elementor ===
-Contributors: analogwp, mauryaratan
+Contributors: analogwp, lushkant, johnpixle, mauryaratan
 Requires at least: 6.0
-Requires PHP: 7.0
-Tested up to: 6.5.2
-Stable tag: 2.0.9
+Requires PHP: 8.0
+Tested up to: 6.7.1
+Stable tag: 2.1.2
 Tags: elementor, landing page, design, website builder, templates, page builder
 License: GPLv2
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
@@ -119,6 +119,21 @@ Our dedicated support team has your back. Please reach out via our website at ht
 
 
 == Changelog ==
+
+= 2.1.2 - November 27, 2024 =
+* Fix: PHP 8.3 warning in Unsplash module
+* Improvements: Other minor code changes
+
+= 2.1.1 - November 20, 2024 =
+* Fix: Freemius configuration
+
+= 2.1.0 - November 19, 2024 =
+* New: Freemius integration for licensing and payments
+* New: Bump minimum PHP version to v7.4
+* Improvements: Remove unused code
+* Improvements: Other major code changes
+* Improvements: Compatibility with WordPress v6.7
+* Improvements: Compatibility with Elementor v3.25.7 and Elementor Pro v3.25.3
 
 = 2.0.9 - April 19, 2024 =
 * New: Update Feature panel setting labels
